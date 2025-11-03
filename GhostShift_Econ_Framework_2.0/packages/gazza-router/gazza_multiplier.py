@@ -1,0 +1,2 @@
+class GazzaMultiplier:
+    pass
